@@ -1,0 +1,41 @@
+body {
+background-color:rgba(18, 192, 236, 0.269);
+font-size: larger;
+font-family:'Times New Roman', Times, serif;
+margin: 5%;
+border-style:solid;
+} 
+
+h1{
+    text-align: center;
+}
+
+pre{
+    text-align: center;
+}
+
+header{
+    margin: 0.5%;
+    border-style:solid;
+}
+
+h2,h3,h4{
+    margin: 0.5%;
+    /*border-style: solid;*/
+    background-color:rgba(192, 192, 192, 0.653);
+}
+
+p,address{
+    margin: 0.5%;
+}
+
+img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 6.4%;
+ }
+
+ a{
+    color:blue;
+ }
